@@ -44,3 +44,7 @@ UI 部分我本来想写成template，但是那样UI就不灵活了，所以用�
   <view class="weui-flex__item">{{countdown3.seconds}}</view>
 </view>
 ```
+
+## 效果
+
+![](./gif/demo.gif)
